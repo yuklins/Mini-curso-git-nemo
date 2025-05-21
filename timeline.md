@@ -17,6 +17,9 @@
   O Deus do Trovão recupera o Mjölnir, derrota o Destruidor e retorna a Asgard.
 
 <!-- SLOT_LOKI -->
+**2012 – Loki**  
+  Loki descobre que sua vida inteira, incluindo suas tentativas de conquistar mundos, já estava "roteirizada" pela TVA.
+
 
 - **2012 – Invasão Chitauri / Formação dos Vingadores**  
   Loki ataca Nova York com o Tesseract; os Vingadores se reúnem e selam a fenda dimensional.
